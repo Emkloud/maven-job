@@ -7,5 +7,7 @@
   <h4>In todays's class, we will be talking about CI/CD pipeline.</h4>
   <h4>How many of you have heard about Jenkins before?</h4>
   <h4>Raise your hands if you can explain what Jenkins CI/CD means...</h4>
+  <h4>To some people, CI/CD Pipeline is so difficult.</h4>
+  <h4>Everything is difficult for those who do not want to be challenged.</h4>
  </body>
 </html>
