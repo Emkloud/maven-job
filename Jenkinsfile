@@ -14,6 +14,11 @@ pipeline {
                } 
             }
         }
+        stage("Quality Gate") {
+            steps {
+              waitForQualityGate abortPipeline: true, credentialsId: '	Sonar-Token'
+            }
+        }
         stage('Test the Codes') {
             steps {
                 sh 'cd SampleWebApp && mvn test'
