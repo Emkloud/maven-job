@@ -11,8 +11,9 @@
   <h4>To some people, CI/CD Pipeline is so difficult.</h4>
   <h4>Everything is difficult for those who do not want to be challenged.</h4>
   <br>
-  <h2>WHAT IS A JENKINS CI/CD?</h2>
+  <h2>WHAT IS JENKINS CI/CD?</h2>
   <h3>Continuous Integration and Continuous Deployment</h3>
   <h4>This is the end of the end. See you next time we meet.</h4>
+  <h4>For those who need more knowledge of what we discussed can stay put.</h4>
  </body>
 </html>
