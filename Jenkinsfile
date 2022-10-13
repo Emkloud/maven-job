@@ -7,6 +7,13 @@ pipeline {
                 git 'https://github.com/Emkloud/maven-job.git'
             }
         }
+        stage("SonarQube Analysis") {
+            steps {
+               withSonarQubeEnv('sonar') {
+                  sh 'mvn -f SampleWebApp/pom.xml clean package sonar:sonar'
+               } 
+            }
+        }
         stage('Test the Codes') {
             steps {
                 sh 'cd SampleWebApp && mvn test'
