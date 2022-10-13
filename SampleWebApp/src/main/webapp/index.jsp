@@ -15,5 +15,6 @@
   <h3>Continuous Integration and Continuous Deployment</h3>
   <h4>This is the end of the end. See you next time we meet.</h4>
   <h4>For those who need more knowledge of what we discussed in class can stay put.</h4>
+  <h4>We will discuss SonarQube Static Code Analysis from next class.</h4>
  </body>
 </html>
