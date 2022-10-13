@@ -17,6 +17,7 @@
   <h4>For those who need more knowledge of what we discussed in class can stay put.</h4>
   <h4>We will discuss SonarQube Static Code Analysis from next class.</h4>
   <h3>You did a great job today guys. Have a wonderful night rest.</h3>
+  <h4>Cloud Computing is good.</h4>
   <h1>SHALOM!</h1>
  </body>
 </html>
