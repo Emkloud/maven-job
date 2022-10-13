@@ -10,5 +10,8 @@
   <h4>Raise your hands if you can explain what Jenkins CI/CD means...</h4>
   <h4>To some people, CI/CD Pipeline is so difficult.</h4>
   <h4>Everything is difficult for those who do not want to be challenged.</h4>
+  <br>
+  <h2>WHAT IS A JENKINS CI/CD?</h2>
+  <h3>Continuous Integration and Continuous Deployment</h3>
  </body>
 </html>
